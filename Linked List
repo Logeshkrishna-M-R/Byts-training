@@ -57,5 +57,5 @@ class Main{
             System.out.print(dummy.data+" ");
             dummy=dummy.next;
         }
-    }
+    
 }
